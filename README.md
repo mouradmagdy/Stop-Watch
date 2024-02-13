@@ -13,4 +13,4 @@ Features
 * Push Buttons ( Stop, Resume, and Reset functionality)
 * 7-Segment Display
 
-
+![scrren shot of stop watch from proteus](https://github.com/mouradmagdy/Stop-Watch/blob/main/proteus-stop-watch.png)
